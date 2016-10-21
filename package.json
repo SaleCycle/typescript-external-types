@@ -1,0 +1,19 @@
+{
+  "name": "typescript-external-types",
+  "version": "1.0.0",
+  "description": "stores types definitions for external libraries that are not in @types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaleCycle/typescript-external-types.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaleCycle/typescript-external-types/issues"
+  },
+  "homepage": "https://github.com/SaleCycle/typescript-external-types#readme"
+}
