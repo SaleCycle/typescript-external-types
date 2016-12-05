@@ -1,3 +1,5 @@
+// reference http://docs.qubitproducts.com/uv/code/
+
 export interface uvBasketItem {
   product: {
     id: string;
