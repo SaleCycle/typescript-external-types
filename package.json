@@ -1,6 +1,6 @@
 {
   "name": "@salecycle/typescript-external-types",
-  "version": "5.1.0",
+  "version": "5.2.0",
   "description": "stores types definitions for external libraries that are not in @types",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
