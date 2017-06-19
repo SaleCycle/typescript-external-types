@@ -1,1 +1,3 @@
-declare var Promise: typeof Promise
+declare module 'es6-promise-polyfill' {
+  export var Promise: PromiseConstructor
+}
